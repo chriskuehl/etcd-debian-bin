@@ -4,7 +4,7 @@ Maintainer: Chris Kuehl <ckuehl@ocf.berkeley.edu>
 Depends:
 Priority: optional
 Version: 2.0.8kl1
-Description: A highly-available key value store for shared configuration and service discovery.
+Description: Highly-available key value store for shared configuration and service discovery
  .
  This package provides etcd binaries only, unmodified from the upstream
  releases, in /usr/bin/.
