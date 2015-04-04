@@ -1,0 +1,3 @@
+tmp/
+etcd-debian/usr/bin/
+*.deb
