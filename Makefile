@@ -1,4 +1,4 @@
-RELEASE = https://github.com/coreos/etcd/releases/download/v2.0.8/etcd-v2.0.8-linux-amd64.tar.gz
+RELEASE = https://github.com/coreos/etcd/releases/download/v2.0.10/etcd-v2.0.10-linux-amd64.tar.gz
 
 etcd-debian/usr/bin/:
 	mkdir -p tmp etcd-debian/usr/bin/
